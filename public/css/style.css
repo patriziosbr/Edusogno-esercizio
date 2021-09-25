@@ -1,0 +1,18 @@
+.redError{
+    color: red;
+}
+
+header section {
+    height: 90px;
+    /* background-color: blue; */
+    background-color: rgba(74,169,73,255);
+}
+#logo-box{
+    height: 90px;
+}
+
+#logo-box img {
+    height: 100%;
+    padding: 16px;
+    margin-left: 32px;
+}
